@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[set CHROME_DRIVER_SILENT_OUTPUT_PROPERTY to avoid TImeOut log in console]]>
+    </line>
+    <line>
+      <![CDATA[launching ChromeBrowser]]>
+    </line>
+  </reporter-output>
+  <suite name="hybridSuite" duration-ms="52699" started-at="2020-08-18T07:10:19 IST" finished-at="2020-08-18T07:11:12 IST">
+    <groups>
+    </groups>
+    <test name="HybridTest" duration-ms="52699" started-at="2020-08-18T07:10:19 IST" finished-at="2020-08-18T07:11:12 IST">
+      <class name="com.qa.linkedin.testcases.SearchDDTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@731f8236]" name="setup" is-config="true" duration-ms="13902" started-at="2020-08-18T07:10:05 IST" finished-at="2020-08-18T07:10:19 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[set CHROME_DRIVER_SILENT_OUTPUT_PROPERTY to avoid TImeOut log in console]]>
+            </line>
+            <line>
+              <![CDATA[launching ChromeBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@731f8236]" name="beforeClass" is-config="true" duration-ms="24574" started-at="2020-08-18T07:10:19 IST" finished-at="2020-08-18T07:10:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchPeopleTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@731f8236]" name="searchPeopleTest" duration-ms="7772" started-at="2020-08-18T07:10:46 IST" data-provider="dp" finished-at="2020-08-18T07:10:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shilpa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPeopleTest -->
+        <test-method status="PASS" signature="searchPeopleTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@731f8236]" name="searchPeopleTest" duration-ms="7322" started-at="2020-08-18T07:10:54 IST" data-provider="dp" finished-at="2020-08-18T07:11:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swathi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPeopleTest -->
+        <test-method status="PASS" signature="searchPeopleTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@731f8236]" name="searchPeopleTest" duration-ms="6429" started-at="2020-08-18T07:11:01 IST" data-provider="dp" finished-at="2020-08-18T07:11:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ramesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPeopleTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@731f8236]" name="afterClass" is-config="true" duration-ms="4288" started-at="2020-08-18T07:11:08 IST" finished-at="2020-08-18T07:11:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTest@731f8236]" name="tearDown" is-config="true" duration-ms="1040" started-at="2020-08-18T07:11:14 IST" finished-at="2020-08-18T07:11:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.linkedin.testcases.SearchDDTest -->
+    </test> <!-- HybridTest -->
+  </suite> <!-- hybridSuite -->
+</testng-results>

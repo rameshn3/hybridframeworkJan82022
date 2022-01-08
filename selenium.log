@@ -1,0 +1,32 @@
+2020-10-02 07:57:55 DEBUG TestBase:41 - fetch the browser to run the test
+2020-10-02 07:57:55 DEBUG TestBase:30 - Fetching the Properties from config.properties file
+2020-10-02 07:57:55 DEBUG TestBase:31 - create object for Properties class
+2020-10-02 07:57:55 DEBUG TestBase:34 - load all the properties
+2020-10-02 07:58:08 DEBUG TestBase:67 - maximize the window
+2020-10-02 07:58:10 DEBUG TestBase:69 - add implicit wait
+2020-10-02 07:58:10 DEBUG TestBase:72 -  create Object for WebDriverWait class
+2020-10-02 07:58:10 DEBUG TestBase:30 - Fetching the Properties from config.properties file
+2020-10-02 07:58:10 DEBUG TestBase:31 - create object for Properties class
+2020-10-02 07:58:10 DEBUG TestBase:34 - load all the properties
+2020-10-02 07:58:10 DEBUG TestBase:78 - open the url:https://www.linkedin.com/
+2020-10-02 07:58:10 DEBUG TestBase:30 - Fetching the Properties from config.properties file
+2020-10-02 07:58:10 DEBUG TestBase:31 - create object for Properties class
+2020-10-02 07:58:10 DEBUG TestBase:34 - load all the properties
+2020-10-02 07:58:19 DEBUG TestBase:30 - Fetching the Properties from config.properties file
+2020-10-02 07:58:19 DEBUG TestBase:31 - create object for Properties class
+2020-10-02 07:58:19 DEBUG TestBase:34 - load all the properties
+2020-10-02 07:58:19 DEBUG TestBase:30 - Fetching the Properties from config.properties file
+2020-10-02 07:58:19 DEBUG TestBase:31 - create object for Properties class
+2020-10-02 07:58:19 DEBUG TestBase:34 - load all the properties
+2020-10-02 07:58:19 DEBUG TestBase:30 - Fetching the Properties from config.properties file
+2020-10-02 07:58:19 DEBUG TestBase:31 - create object for Properties class
+2020-10-02 07:58:19 DEBUG TestBase:34 - load all the properties
+2020-10-02 07:58:19 DEBUG TestBase:30 - Fetching the Properties from config.properties file
+2020-10-02 07:58:19 DEBUG TestBase:31 - create object for Properties class
+2020-10-02 07:58:19 DEBUG TestBase:34 - load all the properties
+2020-10-02 07:58:36 DEBUG ExcelUtils:29 - Specify the path of file :D:\eclipseworkspaceAug2018\HybridFrameworkAug122020\src\test\java\com\qa\linkedin\data\searchData.xlsx
+2020-10-02 07:58:36 DEBUG ExcelUtils:32 - read the file
+2020-10-02 07:58:36 DEBUG ExcelUtils:34 - Load workbook
+2020-10-02 07:58:38 DEBUG ExcelUtils:39 - fetch the row count
+2020-10-02 07:58:38 DEBUG ExcelUtils:41 - number of rows in the excel sheet is-->3
+2020-10-02 07:58:38 DEBUG ExcelUtils:43 - number of columns in the excel sheet is -->1
